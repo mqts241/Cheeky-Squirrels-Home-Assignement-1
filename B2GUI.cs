@@ -34,7 +34,7 @@ public class B2GUI
         };
         loadButton.Click += LoadFile;
 
-        var saveButton = new {
+        var saveButton = new Button {
             Content = "Save File",
         };
         saveButton.Click += SaveFile;

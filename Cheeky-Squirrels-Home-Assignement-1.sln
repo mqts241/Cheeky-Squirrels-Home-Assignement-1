@@ -4,8 +4,6 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheeky-Squirrels-Home-Assignement-1", "Cheeky-Squirrels-Home-Assignement-1.csproj", "{59EB9AB7-8D0D-FF5F-2B9E-F9CCD7E1B4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAvaloniaApp", "MyAvaloniaApp\MyAvaloniaApp.csproj", "{290346A3-51EC-1104-70AB-94F75634F31D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,15 +14,11 @@ Global
 		{59EB9AB7-8D0D-FF5F-2B9E-F9CCD7E1B4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EB9AB7-8D0D-FF5F-2B9E-F9CCD7E1B4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EB9AB7-8D0D-FF5F-2B9E-F9CCD7E1B4D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{290346A3-51EC-1104-70AB-94F75634F31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{290346A3-51EC-1104-70AB-94F75634F31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{290346A3-51EC-1104-70AB-94F75634F31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{290346A3-51EC-1104-70AB-94F75634F31D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A645EC2-9836-460C-A97B-5F7E36CAD5BB}
+		SolutionGuid = {61E91391-BF76-469B-950A-3E15E9F7FA76}
 	EndGlobalSection
 EndGlobal
