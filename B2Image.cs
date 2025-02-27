@@ -52,7 +52,7 @@ public class B2Image
             int index = 0;
             for (int i = 0, i < Height, i++)
             {
-                for (index j = 0, j < Width, j++)
+                for (j = 0, j < Width, j++)
                 {
                     Pixels[i, j] = Data[index] - 0; //converts the chars into int
                     index++
